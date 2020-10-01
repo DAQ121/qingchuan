@@ -24,7 +24,7 @@ src目录如下：
         │          └─coderman
         │              ├─admin        #后台代码
         │              ├─config       #配置文件
-        │              └─web 	      #前端代码
+        │              └─web 	      #前台代码
         └─resources    	              #详细配置
             ├─mapper	              #sql映射文件
             ├─static	              #静态资源
