@@ -16,9 +16,9 @@ import java.util.UUID;
 public class OssUploadImgProvider {
     @Value("${oss.endpoint}")
     private  String endpoint;
-    @Value("LTAI4G8X4vkZc8Z3aHM49djh")
+    @Value("************")
     private  String accessKeyId;
-    @Value("${oss.accessKeySecret}")
+    @Value("***************")
     private  String accessKeySecret;
     @Value("${oss.bucketName}")
     private  String bucketName;
