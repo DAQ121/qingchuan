@@ -56,6 +56,6 @@ src目录如下：
 QQ：2829025551
 
 ## :slot_machine:友情链接
-[我的博客空间](https://daqwt.top)
+[我的博客空间](https://love.daqwt.top)
 
 
